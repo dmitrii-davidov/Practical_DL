@@ -78,6 +78,6 @@ debian/files
 # Datasets
 homework02/tiny-imagenet-200
 homework02/notMNIST_small
+*.csv
 *.gz
 *.zip
-
